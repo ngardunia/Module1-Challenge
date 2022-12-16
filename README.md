@@ -7,4 +7,4 @@ The initial code has also been modified to use the more modern smeantic HTML ele
 
 Website URL: https://ngardunia.github.io/Module1-Challenge/
 
-Repository URL: https://github.com/ngardunia/Challenge-1
+Repository URL: https://github.com/ngardunia/Module1-Challenge
